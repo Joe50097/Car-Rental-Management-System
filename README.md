@@ -1,6 +1,7 @@
 # 🚗 Car Rental Management System
 
 A Java-based desktop application connected to a MySQL database that simulates the operations of a car rental company.  
+
 This project was developed as part of a university course (for the courseProgramming 3) and demonstrates **Object-Oriented Programming (OOP), JDBC database connectivity, and CRUD operations**.
 
 ---
